@@ -1,0 +1,42 @@
+<html>
+<head>
+
+  <title>
+  New Media Portfolio
+  </title>
+
+  <style>
+  body {background-image:url('12.jpg'); text-align: center;} <!--This value controls the background image and center-aligns content-->
+  <!--if you want a solid background color, use "background-color: green" instead, you can find a color code guide at w3schools.com-->
+  a { color: yellow;} <!--This value controls the color of text links-->
+  a:hover { color:green;} <!--This value makes text links change color when your mouse hovers over them-->
+  </style>
+
+</head>
+
+<body>
+  <br><br>
+  <h1>Rachel Baichoo</br></br>Intro to New Media Portfolio</h1>
+  <!--using <h1> creates large headlines, <h6> smaller headlines, and <p> is for general paragraph text-->
+
+  <br><br><br><!--<br> creates a new line, vertical space-->
+
+<!--we are now creating text links to each of your assignments-->
+
+  <h2>
+  <a href="netart.html">Assignment 1 - Net Art</a> <!--the <a href> is used to create a link, with the text between the tag as the linking text-->
+  </br></br>
+  <a href="https://rayeeex.github.io/Collage.jpg">Assignment 2 - Digital Collage</a>
+  </br></br>
+  <a href="https://rayeeexb.tumblr.com/post/188374817809/fast-fashion-is-the-act-of-buying-cheap-clothing">Midterm - Global Issue Poster</a>
+  </br></br>
+  <a href="mashup.html">Assignment 3 - Video Mashup </a>
+  <br><br>
+  <a href="https://rayeeex.github.io/cool-butterfly-gif.gif">Assignment 4 - After Effects</a>
+  </br></br>
+  <a href="final.html">Final Project </a>
+  </h2>
+
+
+</body>
+</html>
