@@ -1,0 +1,18 @@
+<head>
+<title>My first website </title>
+<style media="screen">
+  p {fot-size: 20px; color:yellow;}
+  h1{fot-size: 20px; color:orange;}
+ body {background-image: url(https://d3k8cp7ga1ip8x.cloudfront.net/media/meural/c52f1bd66cc19d05628bd8bf27af3ad6/AwibzSeLxhUIxQJK4vrrc7Mwc0CIka8f.jpeg); text-align: center;}
+</style media="screen">
+</head>
+<body>
+  <h1> Peace, light,love</<h1>
+<br>
+   <center>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/g8I4boLQRrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </center>
+<h1>Love takes off the masks we fear we cannot live without and know we cannot live within.</h1>
+</p>
+  
+</body>
